@@ -1,2 +1,3 @@
 This is main page 
-My name is Zisan Hasan Akash , I am a computer enginner ,  
+My name is Zisan Hasan Akash
+Add feature2 in index file 
