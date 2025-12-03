@@ -5,4 +5,4 @@ My name is Zisan Hasan Akash
 Add feature2 in index file 
 check it from CLI 
 again change by feature
-Logo issue solved
+Logo issue resolved
